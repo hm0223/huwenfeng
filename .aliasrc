@@ -1,0 +1,9 @@
+
+# ========================== Alias Start =========================
+# zykj vpn
+alias vpn='cd /usr/local/etc/openvpn && sudo /usr/local/opt/openvpn/sbin/openvpn --config /usr/local/etc/openvpn/config.ovpn'
+alias git='LANG=en_GB git'
+# tree
+# alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
+alias ll="ls -latr"
+alias cls="clear"

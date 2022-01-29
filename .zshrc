@@ -2,7 +2,7 @@
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
 # Path to your oh-my-zsh installation.
-export ZSH="/Users/huwenfeng/.oh-my-zsh"
+export ZSH="/Users/$USER/.oh-my-zsh"
 
 ZSH_DISABLE_COMPFIX=true
 
@@ -10,10 +10,10 @@ ZSH_DISABLE_COMPFIX=true
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+ZSH_THEME="random"
 #ZSH_THEME="robbyrussell"
 #ZSH_THEME="agnoster"
 #ZSH_THEME="avit"
-ZSH_THEME="random"
 #ZSH_THEME="wedisagree"
 #ZSH_THEME="nicoulaj"
 
@@ -73,7 +73,6 @@ DISABLE_MAGIC_FUNCTIONS=true
 # Plugin Management
 # source ~/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh
 
-
 # Which plugins would you like to load?
 # Standard plugins can be found in ~/.oh-my-zsh/plugins/*
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
@@ -98,53 +97,12 @@ source $ZSH/oh-my-zsh.sh
 #   export EDITOR='mvim'
 # fi
 
-# Compilation flags
-# export ARCHFLAGS="-arch x86_64"
 
-# Set personal aliases, overriding those provided by oh-my-zsh libs,
-# plugins, and themes. Aliases can be placed here, though oh-my-zsh
-# users are encouraged to define aliases within the ZSH_CUSTOM folder.
-# For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
-alias cls="clear"
+# load aliases config
+source ~/.aliasrc
 
-# Svm arc config
-# export PATH=$PATH:/Users/huwenfeng/Public/arc/arcanist/bin
-# export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.aliyun.com/homebrew/homebrew-bottles
+# load jenv plugin config
+source ~/.jenvrc
 
+# load normal bash config
 source ~/.bash_profile
-# source ~/.zshrc
-alias git='LANG=en_GB git'
-eval export PATH="/Users/huwenfeng/.jenv/shims:${PATH}"
-export JENV_SHELL=zsh
-export JENV_LOADED=1
-unset JAVA_HOME
-source '/usr/local/Cellar/jenv/0.5.2/libexec/libexec/../completions/jenv.zsh'
-jenv rehash 2>/dev/null
-jenv() {
-  typeset command
-  command="$1"
-  if [ "$#" -gt 0 ]; then
-    shift
-  fi
-
-  case "$command" in
-  enable-plugin|rehash|shell|shell-options)
-    eval `jenv "sh-$command" "$@"`;;
-  *)
-    command jenv "$command" "$@";;
-  esac
-}
-export PATH="$HOME/.jenv/bin:$PATH"
-eval "$(jenv init -)"
-
-
-#export PATH=$PATH:/opt/gradle/gradle-6.6/bin
-
-# tree 
-#alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'" 
-export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.ustc.edu.cn/homebrew-bottles
-export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.aliyun.com/homebrew/homebrew-bottles
