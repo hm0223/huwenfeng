@@ -1,0 +1,1564 @@
+[WRN][1639881197.6386239529] antigen.zsh:267
+[WRN][1639881197.6386239529] -antigen-interactive-mode: toplevel:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1639881197.6388919353] antigen.zsh:476
+[TRA][1639881197.6388919353] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1639881197.6388919353] TRACE
+-antigen-env-setup
+antigen.zsh
+[WRN][1639882560.8501141071] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639882560.8501141071] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1639882560.8503139019] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:476
+[TRA][1639882560.8503139019] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1639882560.8503139019] TRACE
+-antigen-env-setup
+/Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh
+.zshrc
+[TRA][1639882560.9211249352] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639882560.9211249352] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1639882560.9211249352] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+.zshrc
+[TRA][1639882681.4830820560] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:862
+[TRA][1639882681.4830820560] -antigen-bundle-instal failed to clone https://github.com/robbyrussell/oh-my-zsh.git BUNDLE
+[TRA][1639882681.4830820560] TRACE
+-antigen-bundle-install
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+.zshrc
+[TRA][1639882681.4835979939] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639882681.4835979939] Called antigen-bundle with git BUNDLE
+[TRA][1639882681.4835979939] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639882694.4247839451] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639882694.4247839451] Called antigen-bundle with heroku BUNDLE
+[TRA][1639882694.4247839451] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639882694.4259328842] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639882694.4259328842] Called antigen-bundle with pip BUNDLE
+[TRA][1639882694.4259328842] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639882694.4284839630] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639882694.4284839630] Called antigen-bundle with lein BUNDLE
+[TRA][1639882694.4284839630] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639882694.4293289185] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639882694.4293289185] Called antigen-bundle with command-not-found BUNDLE
+[TRA][1639882694.4293289185] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639882694.4347460270] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639882694.4347460270] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1639882694.4347460270] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639882815.1495130062] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:862
+[TRA][1639882815.1495130062] -antigen-bundle-instal failed to clone https://github.com/zsh-users/zsh-syntax-highlighting.git BUNDLE
+[TRA][1639882815.1495130062] TRACE
+-antigen-bundle-install
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639882815.1534531116] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639882815.1534531116] Called antigen-bundle with --loc=themes/robbyrussell --btype=theme BUNDLE
+[TRA][1639882815.1534531116] TRACE
+antigen-bundle
+antigen-theme
+antigen
+.zshrc
+[LOG][1639882815.1627190113] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:786
+[LOG][1639882815.1627190113] Called antigen-apply
+[TRA][1639882815.1628620625] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:790
+[TRA][1639882815.1628620625] Gonna create compdump file @ apply COMPDUMP
+[TRA][1639882815.1628620625] TRACE
+antigen-apply
+antigen
+.zshrc
+[WRN][1639883012.2001969814] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639883012.2001969814] -antigen-interactive-mode: toplevel:file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1639883012.2004680634] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:476
+[TRA][1639883012.2004680634] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1639883012.2004680634] TRACE
+-antigen-env-setup
+/Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh
+.zshrc
+[TRA][1639883012.2424969673] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639883012.2424969673] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1639883012.2424969673] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+.zshrc
+[TRA][1639883012.2805140018] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639883012.2805140018] Called antigen-bundle with git BUNDLE
+[TRA][1639883012.2805140018] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639883012.2810990810] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639883012.2810990810] Called antigen-bundle with heroku BUNDLE
+[TRA][1639883012.2810990810] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639883012.2816240788] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639883012.2816240788] Called antigen-bundle with pip BUNDLE
+[TRA][1639883012.2816240788] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639883012.2821369171] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639883012.2821369171] Called antigen-bundle with lein BUNDLE
+[TRA][1639883012.2821369171] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639883012.2826540470] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639883012.2826540470] Called antigen-bundle with command-not-found BUNDLE
+[TRA][1639883012.2826540470] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639883012.2831780910] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639883012.2831780910] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1639883012.2831780910] TRACE
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639883132.9747960567] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:862
+[TRA][1639883132.9747960567] -antigen-bundle-instal failed to clone https://github.com/zsh-users/zsh-syntax-highlighting.git BUNDLE
+[TRA][1639883132.9747960567] TRACE
+-antigen-bundle-install
+antigen-bundle
+antigen
+.zshrc
+[TRA][1639883132.9783649445] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639883132.9783649445] Called antigen-bundle with --loc=themes/robbyrussell --btype=theme BUNDLE
+[TRA][1639883132.9783649445] TRACE
+antigen-bundle
+antigen-theme
+antigen
+.zshrc
+[LOG][1639883132.9791560173] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:786
+[LOG][1639883132.9791560173] Called antigen-apply
+[TRA][1639883132.9792859554] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:790
+[TRA][1639883132.9792859554] Gonna create compdump file @ apply COMPDUMP
+[TRA][1639883132.9792859554] TRACE
+antigen-apply
+antigen
+.zshrc
+[WRN][1639883948.9248430729] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639883948.9248430729] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1639883948.9252309799] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1569
+[WRN][1639883948.9252309799] -antigen-lock-init return code was 0
+[LOG][1639883948.9253430367] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1571
+[LOG][1639883948.9253430367] LOADED EXTENSION lock EXT
+[WRN][1639883948.9276020527] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1681
+[WRN][1639883948.9276020527] Init parallel extension PARALLEL
+[WRN][1639883948.9277389050] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639883948.9277389050] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1639883948.9279448986] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1569
+[WRN][1639883948.9279448986] -antigen-parallel-init return code was 0
+[LOG][1639883948.9280478954] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1571
+[LOG][1639883948.9280478954] LOADED EXTENSION parallel EXT
+[WRN][1639883948.9281458855] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1689
+[WRN][1639883948.9281458855] Exec parallel extension PARALLEL
+[WRN][1639883948.9284539223] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639883948.9284539223] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1639883948.9285809994] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1569
+[WRN][1639883948.9285809994] -antigen-defer-init return code was 0
+[LOG][1639883948.9286770821] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1571
+[LOG][1639883948.9286770821] LOADED EXTENSION defer EXT
+[WRN][1639883948.9299640656] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639883948.9299640656] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1639883948.9302480221] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1569
+[WRN][1639883948.9302480221] -antigen-cache-init return code was 0
+[LOG][1639883948.9303560257] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1571
+[LOG][1639883948.9303560257] LOADED EXTENSION cache EXT
+[WRN][1639883948.9327669144] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9327669144] Updated meta: target antigen mode once type pre called 1
+[WRN][1639883948.9328989983] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9328989983] Processing hooks: antigen-lock
+[WRN][1639883948.9330430031] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9330430031] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1639883948.9331619740] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1655
+[LOG][1639883948.9331619740] antigen-lock called
+[WRN][1639883948.9333961010] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1666
+[WRN][1639883948.9333961010] Creating antigen-lock file at /Users/huwenfeng/.antigen/.lock
+[WRN][1639883948.9408700466] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883948.9408700466] -antigen-hook-antigen use oh-my-zsh
+[WRN][1639883948.9448049068] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9448049068] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1639883948.9450209141] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9450209141] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1639883948.9451429844] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9451429844] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883948.9452469349] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9452469349] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1639883948.9454538822] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9454538822] Replace hook: antigen-bundle-defer --loc=lib
+[WRN][1639883948.9456110001] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883948.9456110001] antigen-bundle-defer shortcircuited
+[LOG][1639883948.9458069801] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9458069801] Return from hook antigen with 0
+[WRN][1639883948.9460380077] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883948.9460380077] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883948.9462120533] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9462120533] Processing hooks: antigen-lock
+[WRN][1639883948.9463310242] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883948.9463310242] -antigen-hook-antigen bundle git
+[WRN][1639883948.9465429783] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9465429783] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1639883948.9466900826] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9466900826] Updated meta: target antigen-bundle mode repeat type pre called 2
+[WRN][1639883948.9468059540] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9468059540] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883948.9469211102] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9469211102] Pre hook: antigen-bundle-cached git
+[WRN][1639883948.9470589161] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9470589161] Replace hook: antigen-bundle-defer git
+[WRN][1639883948.9471790791] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883948.9471790791] antigen-bundle-defer shortcircuited
+[LOG][1639883948.9473330975] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9473330975] Return from hook antigen with 0
+[WRN][1639883948.9475340843] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883948.9475340843] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883948.9476749897] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9476749897] Processing hooks: antigen-lock
+[WRN][1639883948.9478220940] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883948.9478220940] -antigen-hook-antigen bundle heroku
+[WRN][1639883948.9480431080] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9480431080] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1639883948.9481949806] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9481949806] Updated meta: target antigen-bundle mode repeat type pre called 3
+[WRN][1639883948.9483129978] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9483129978] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883948.9485020638] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9485020638] Pre hook: antigen-bundle-cached heroku
+[WRN][1639883948.9486660957] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9486660957] Replace hook: antigen-bundle-defer heroku
+[WRN][1639883948.9487950802] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883948.9487950802] antigen-bundle-defer shortcircuited
+[LOG][1639883948.9489600658] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9489600658] Return from hook antigen with 0
+[WRN][1639883948.9491689205] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883948.9491689205] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883948.9492731094] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9492731094] Processing hooks: antigen-lock
+[WRN][1639883948.9494960308] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883948.9494960308] -antigen-hook-antigen bundle pip
+[WRN][1639883948.9497919083] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9497919083] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1639883948.9499490261] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9499490261] Updated meta: target antigen-bundle mode repeat type pre called 4
+[WRN][1639883948.9500660896] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9500660896] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883948.9501729012] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9501729012] Pre hook: antigen-bundle-cached pip
+[WRN][1639883948.9503159523] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9503159523] Replace hook: antigen-bundle-defer pip
+[WRN][1639883948.9504370689] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883948.9504370689] antigen-bundle-defer shortcircuited
+[LOG][1639883948.9505960941] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9505960941] Return from hook antigen with 0
+[WRN][1639883948.9508059025] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883948.9508059025] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883948.9509119987] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9509119987] Processing hooks: antigen-lock
+[WRN][1639883948.9510269165] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883948.9510269165] -antigen-hook-antigen bundle lein
+[WRN][1639883948.9512319565] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9512319565] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1639883948.9513809681] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9513809681] Updated meta: target antigen-bundle mode repeat type pre called 5
+[WRN][1639883948.9514930248] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9514930248] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883948.9515960217] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9515960217] Pre hook: antigen-bundle-cached lein
+[WRN][1639883948.9517359734] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9517359734] Replace hook: antigen-bundle-defer lein
+[WRN][1639883948.9518549442] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883948.9518549442] antigen-bundle-defer shortcircuited
+[LOG][1639883948.9520061016] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9520061016] Return from hook antigen with 0
+[WRN][1639883948.9522030354] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883948.9522030354] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883948.9523220062] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9523220062] Processing hooks: antigen-lock
+[WRN][1639883948.9524478912] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883948.9524478912] -antigen-hook-antigen bundle command-not-found
+[WRN][1639883948.9526460171] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9526460171] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1639883948.9527859688] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9527859688] Updated meta: target antigen-bundle mode repeat type pre called 6
+[WRN][1639883948.9528961182] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9528961182] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883948.9530520439] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9530520439] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1639883948.9531919956] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9531919956] Replace hook: antigen-bundle-defer command-not-found
+[WRN][1639883948.9533100128] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883948.9533100128] antigen-bundle-defer shortcircuited
+[LOG][1639883948.9534571171] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9534571171] Return from hook antigen with 0
+[WRN][1639883948.9536600113] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883948.9536600113] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883948.9537580013] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9537580013] Processing hooks: antigen-lock
+[WRN][1639883948.9538691044] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883948.9538691044] -antigen-hook-antigen bundle zsh-users/zsh-syntax-highlighting
+[WRN][1639883948.9540679455] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9540679455] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1639883948.9542090893] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9542090893] Updated meta: target antigen-bundle mode repeat type pre called 7
+[WRN][1639883948.9543190002] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9543190002] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883948.9544200897] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9544200897] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1639883948.9545559883] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9545559883] Replace hook: antigen-bundle-defer zsh-users/zsh-syntax-highlighting
+[WRN][1639883948.9546730518] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883948.9546730518] antigen-bundle-defer shortcircuited
+[LOG][1639883948.9548180103] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9548180103] Return from hook antigen with 0
+[WRN][1639883948.9550180435] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883948.9550180435] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883948.9551169872] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9551169872] Processing hooks: antigen-lock
+[WRN][1639883948.9552268982] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883948.9552268982] -antigen-hook-antigen theme robbyrussell
+[WRN][1639883948.9583349228] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9583349228] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1639883948.9585049152] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9585049152] Updated meta: target antigen-bundle mode repeat type pre called 8
+[WRN][1639883948.9586238861] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9586238861] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883948.9587299824] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9587299824] Pre hook: antigen-bundle-cached --loc=themes/robbyrussell --btype=theme
+[WRN][1639883948.9589240551] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9589240551] Replace hook: antigen-bundle-defer --loc=themes/robbyrussell --btype=theme
+[WRN][1639883948.9590480328] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883948.9590480328] antigen-bundle-defer shortcircuited
+[LOG][1639883948.9592308998] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9592308998] Return from hook antigen with 0
+[WRN][1639883948.9594531059] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883948.9594531059] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883948.9595570564] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9595570564] Processing hooks: antigen-lock
+[WRN][1639883948.9596700668] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883948.9596700668] -antigen-hook-antigen apply
+[WRN][1639883948.9598801136] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9598801136] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1639883948.9600288868] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9600288868] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1639883948.9601709843] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9601709843] Updated meta: target antigen-apply mode once type replace called 1
+[WRN][1639883948.9603109360] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9603109360] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1639883948.9604499340] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9604499340] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1639883948.9605600834] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9605600834] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-parallel-execute antigen-apply-defer antigen-apply-cached
+[WRN][1639883948.9606630802] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9606630802] Pre hook: antigen-apply-parallel
+[WRN][1639883948.9607820511] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1741
+[WRN][1639883948.9607820511] Parallel pre-apply PARALLEL PRE-APPLY
+[WRN][1639883948.9609780312] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9609780312] Pre hook: antigen-apply-defer
+[WRN][1639883948.9610779285] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1620
+[WRN][1639883948.9610779285] Defer pre-apply DEFER PRE-APPLY
+[LOG][1639883948.9613111019] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883948.9613111019] Processing deferred bundle: --loc=lib DEFER
+[WRN][1639883948.9614961147] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9614961147] Updated meta: target antigen-bundle mode repeat type pre called 9
+[WRN][1639883948.9616398811] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9616398811] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1639883948.9617559910] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9617559910] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883948.9618599415] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9618599415] Pre hook: antigen-bundle-cached --loc=lib
+[WRN][1639883948.9620049000] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9620049000] Replace hook: antigen-bundle-parallel --loc=lib
+[TRA][1639883948.9621651173] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883948.9621651173] antigen-bundle-parallel: --loc=lib PARALLEL
+[TRA][1639883948.9621651173] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883948.9622869492] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883948.9622869492] Replaced hooked function.
+[LOG][1639883948.9623908997] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9623908997] Return from hook antigen-bundle with 0
+[LOG][1639883948.9625170231] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883948.9625170231] Processing deferred bundle: git DEFER
+[WRN][1639883948.9626998901] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9626998901] Updated meta: target antigen-bundle mode repeat type pre called 10
+[WRN][1639883948.9628419876] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9628419876] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1639883948.9629569054] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9629569054] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883948.9630599022] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9630599022] Pre hook: antigen-bundle-cached git
+[WRN][1639883948.9631989002] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9631989002] Replace hook: antigen-bundle-parallel git
+[TRA][1639883948.9633009434] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883948.9633009434] antigen-bundle-parallel: git PARALLEL
+[TRA][1639883948.9633009434] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883948.9634239674] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883948.9634239674] Replaced hooked function.
+[LOG][1639883948.9635229111] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9635229111] Return from hook antigen-bundle with 0
+[LOG][1639883948.9636499882] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883948.9636499882] Processing deferred bundle: heroku DEFER
+[WRN][1639883948.9638299942] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9638299942] Updated meta: target antigen-bundle mode repeat type pre called 11
+[WRN][1639883948.9639790058] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9639790058] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1639883948.9640920162] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9640920162] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883948.9642329216] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9642329216] Pre hook: antigen-bundle-cached heroku
+[WRN][1639883948.9643950462] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9643950462] Replace hook: antigen-bundle-parallel heroku
+[TRA][1639883948.9645071030] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883948.9645071030] antigen-bundle-parallel: heroku PARALLEL
+[TRA][1639883948.9645071030] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883948.9646921158] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883948.9646921158] Replaced hooked function.
+[LOG][1639883948.9647960663] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9647960663] Return from hook antigen-bundle with 0
+[LOG][1639883948.9650120735] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883948.9650120735] Processing deferred bundle: pip DEFER
+[WRN][1639883948.9651920795] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9651920795] Updated meta: target antigen-bundle mode repeat type pre called 12
+[WRN][1639883948.9653360844] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9653360844] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1639883948.9654500484] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9654500484] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883948.9655799866] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9655799866] Pre hook: antigen-bundle-cached pip
+[WRN][1639883948.9657499790] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9657499790] Replace hook: antigen-bundle-parallel pip
+[TRA][1639883948.9658560753] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883948.9658560753] antigen-bundle-parallel: pip PARALLEL
+[TRA][1639883948.9658560753] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883948.9660000801] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883948.9660000801] Replaced hooked function.
+[LOG][1639883948.9660990238] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9660990238] Return from hook antigen-bundle with 0
+[LOG][1639883948.9662210941] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883948.9662210941] Processing deferred bundle: lein DEFER
+[WRN][1639883948.9663960934] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9663960934] Updated meta: target antigen-bundle mode repeat type pre called 13
+[WRN][1639883948.9665369987] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9665369987] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1639883948.9666540623] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9666540623] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883948.9667699337] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9667699337] Pre hook: antigen-bundle-cached lein
+[WRN][1639883948.9669039249] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9669039249] Replace hook: antigen-bundle-parallel lein
+[TRA][1639883948.9670069218] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883948.9670069218] antigen-bundle-parallel: lein PARALLEL
+[TRA][1639883948.9670069218] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883948.9671239853] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883948.9671239853] Replaced hooked function.
+[LOG][1639883948.9672219753] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9672219753] Return from hook antigen-bundle with 0
+[LOG][1639883948.9673418999] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883948.9673418999] Processing deferred bundle: command-not-found DEFER
+[WRN][1639883948.9675650597] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9675650597] Updated meta: target antigen-bundle mode repeat type pre called 14
+[WRN][1639883948.9677040577] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9677040577] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1639883948.9678161144] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9678161144] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883948.9679119587] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9679119587] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1639883948.9680409431] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9680409431] Replace hook: antigen-bundle-parallel command-not-found
+[TRA][1639883948.9681398869] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883948.9681398869] antigen-bundle-parallel: command-not-found PARALLEL
+[TRA][1639883948.9681398869] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883948.9682540894] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883948.9682540894] Replaced hooked function.
+[LOG][1639883948.9683489799] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9683489799] Return from hook antigen-bundle with 0
+[LOG][1639883948.9684689045] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883948.9684689045] Processing deferred bundle: zsh-users/zsh-syntax-highlighting DEFER
+[WRN][1639883948.9686419964] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9686419964] Updated meta: target antigen-bundle mode repeat type pre called 15
+[WRN][1639883948.9687800407] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9687800407] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1639883948.9688889980] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9688889980] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883948.9689838886] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9689838886] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1639883948.9691159725] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9691159725] Replace hook: antigen-bundle-parallel zsh-users/zsh-syntax-highlighting
+[TRA][1639883948.9692170620] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883948.9692170620] antigen-bundle-parallel: zsh-users/zsh-syntax-highlighting PARALLEL
+[TRA][1639883948.9692170620] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883948.9693300724] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883948.9693300724] Replaced hooked function.
+[LOG][1639883948.9694259167] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9694259167] Return from hook antigen-bundle with 0
+[LOG][1639883948.9695439339] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883948.9695439339] Processing deferred bundle: --loc=themes/robbyrussell --btype=theme DEFER
+[WRN][1639883948.9697198868] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9697198868] Updated meta: target antigen-bundle mode repeat type pre called 16
+[WRN][1639883948.9699020386] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883948.9699020386] Updated meta: target antigen-bundle mode repeat type replace called 8
+[WRN][1639883948.9700129032] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883948.9700129032] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883948.9701080322] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883948.9701080322] Pre hook: antigen-bundle-cached --loc=themes/robbyrussell --btype=theme
+[WRN][1639883948.9702420235] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9702420235] Replace hook: antigen-bundle-parallel --loc=themes/robbyrussell --btype=theme
+[TRA][1639883948.9703450203] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883948.9703450203] antigen-bundle-parallel: --loc=themes/robbyrussell --btype=theme PARALLEL
+[TRA][1639883948.9703450203] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883948.9704589844] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883948.9704589844] Replaced hooked function.
+[LOG][1639883948.9705550671] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883948.9705550671] Return from hook antigen-bundle with 0
+[WRN][1639883948.9707159996] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883948.9707159996] Replace hook: antigen-apply-parallel-execute
+[WRN][1639883948.9708139896] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1753
+[WRN][1639883948.9708139896] Parallel replace-apply PARALLEL REPLACE-APPLY
+[WRN][1639883948.9710390568] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1692
+[WRN][1639883948.9710390568] Parallel antigen-bundle-parallel-execute PARALLEL
+[WRN][1639883948.9711439610] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1696
+[WRN][1639883948.9711439610] Gonna install in parallel 8 bundles. PARALLEL
+[WRN][1639883948.9712359905] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1698
+[WRN][1639883948.9712359905] --loc=lib git heroku pip lein command-not-found zsh-users/zsh-syntax-highlighting --loc=themes/robbyrussell --btype=theme PARALLEL
+[WRN][1639883948.9720900059] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883948.9720900059] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883948.9725100994] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883948.9725100994] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883948.9729149342] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883948.9729149342] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883948.9733159542] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883948.9733159542] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883948.9737169743] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883948.9737169743] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883948.9741230011] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883948.9741230011] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883948.9745469093] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1705
+[WRN][1639883948.9745469093] Install in parallel zsh-users/zsh-syntax-highlighting. PARALLEL
+[WRN][1639883948.9756519794] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883948.9756519794] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883976.7058548927] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639883976.7058548927] -antigen-interactive-mode: file:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1639883976.7062320709] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1569
+[WRN][1639883976.7062320709] -antigen-lock-init return code was 0
+[LOG][1639883976.7063539028] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1571
+[LOG][1639883976.7063539028] LOADED EXTENSION lock EXT
+[WRN][1639883976.7086229324] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1681
+[WRN][1639883976.7086229324] Init parallel extension PARALLEL
+[WRN][1639883976.7087769508] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639883976.7087769508] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1639883976.7089169025] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1569
+[WRN][1639883976.7089169025] -antigen-parallel-init return code was 0
+[LOG][1639883976.7090249062] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1571
+[LOG][1639883976.7090249062] LOADED EXTENSION parallel EXT
+[WRN][1639883976.7091341019] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1689
+[WRN][1639883976.7091341019] Exec parallel extension PARALLEL
+[WRN][1639883976.7094550133] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639883976.7094550133] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1639883976.7095870972] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1569
+[WRN][1639883976.7095870972] -antigen-defer-init return code was 0
+[LOG][1639883976.7096910477] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1571
+[LOG][1639883976.7096910477] LOADED EXTENSION defer EXT
+[WRN][1639883976.7110280991] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639883976.7110280991] -antigen-interactive-mode: file:file:shfunc:shfunc:shfunc:eval:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[WRN][1639883976.7113149166] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1569
+[WRN][1639883976.7113149166] -antigen-cache-init return code was 0
+[LOG][1639883976.7114260197] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1571
+[LOG][1639883976.7114260197] LOADED EXTENSION cache EXT
+[WRN][1639883976.7140979767] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7140979767] Updated meta: target antigen mode once type pre called 1
+[WRN][1639883976.7142639160] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7142639160] Processing hooks: antigen-lock
+[WRN][1639883976.7143750191] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7143750191] Pre hook: antigen-lock use oh-my-zsh
+[LOG][1639883976.7145130634] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1655
+[LOG][1639883976.7145130634] antigen-lock called
+[WRN][1639883976.7147660255] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1486
+[WRN][1639883976.7147660255] antigen-lock shortcircuited
+[WRN][1639883976.7150940895] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7150940895] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883976.7153730392] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7153730392] Processing hooks: antigen-lock
+[WRN][1639883976.7157421112] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7157421112] -antigen-hook-antigen bundle git
+[WRN][1639883976.7161509991] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7161509991] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1639883976.7166509628] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7166509628] Updated meta: target antigen-bundle mode repeat type pre called 1
+[WRN][1639883976.7168760300] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7168760300] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883976.7171819210] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7171819210] Pre hook: antigen-bundle-cached git
+[WRN][1639883976.7174489498] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7174489498] Replace hook: antigen-bundle-defer git
+[WRN][1639883976.7176809311] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883976.7176809311] antigen-bundle-defer shortcircuited
+[LOG][1639883976.7179811001] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7179811001] Return from hook antigen with 0
+[WRN][1639883976.7183918953] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7183918953] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883976.7185630798] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7185630798] Processing hooks: antigen-lock
+[WRN][1639883976.7187919617] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7187919617] -antigen-hook-antigen bundle heroku
+[WRN][1639883976.7193310261] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7193310261] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1639883976.7195580006] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7195580006] Updated meta: target antigen-bundle mode repeat type pre called 2
+[WRN][1639883976.7197299004] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7197299004] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883976.7199540138] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7199540138] Pre hook: antigen-bundle-cached heroku
+[WRN][1639883976.7202489376] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7202489376] Replace hook: antigen-bundle-defer heroku
+[WRN][1639883976.7205159664] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883976.7205159664] antigen-bundle-defer shortcircuited
+[LOG][1639883976.7207689285] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7207689285] Return from hook antigen with 0
+[WRN][1639883976.7211079597] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7211079597] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883976.7212820053] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7212820053] Processing hooks: antigen-lock
+[WRN][1639883976.7214729786] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7214729786] -antigen-hook-antigen bundle pip
+[WRN][1639883976.7217190266] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7217190266] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1639883976.7218708992] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7218708992] Updated meta: target antigen-bundle mode repeat type pre called 3
+[WRN][1639883976.7219839096] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7219839096] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883976.7221500874] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7221500874] Pre hook: antigen-bundle-cached pip
+[WRN][1639883976.7222859859] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7222859859] Replace hook: antigen-bundle-defer pip
+[WRN][1639883976.7224071026] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883976.7224071026] antigen-bundle-defer shortcircuited
+[LOG][1639883976.7226140499] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7226140499] Return from hook antigen with 0
+[WRN][1639883976.7228240967] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7228240967] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883976.7229330540] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7229330540] Processing hooks: antigen-lock
+[WRN][1639883976.7230439186] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7230439186] -antigen-hook-antigen bundle lein
+[WRN][1639883976.7232511044] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7232511044] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1639883976.7233979702] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7233979702] Updated meta: target antigen-bundle mode repeat type pre called 4
+[WRN][1639883976.7235069275] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7235069275] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883976.7236039639] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7236039639] Pre hook: antigen-bundle-cached lein
+[WRN][1639883976.7237350941] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7237350941] Replace hook: antigen-bundle-defer lein
+[WRN][1639883976.7238540649] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883976.7238540649] antigen-bundle-defer shortcircuited
+[LOG][1639883976.7239959240] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7239959240] Return from hook antigen with 0
+[WRN][1639883976.7241899967] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7241899967] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883976.7242889404] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7242889404] Processing hooks: antigen-lock
+[WRN][1639883976.7243940830] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7243940830] -antigen-hook-antigen bundle command-not-found
+[WRN][1639883976.7245960236] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7245960236] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1639883976.7247378826] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7247378826] Updated meta: target antigen-bundle mode repeat type pre called 5
+[WRN][1639883976.7249290943] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7249290943] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883976.7251420021] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7251420021] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1639883976.7253420353] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7253420353] Replace hook: antigen-bundle-defer command-not-found
+[WRN][1639883976.7255449295] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883976.7255449295] antigen-bundle-defer shortcircuited
+[LOG][1639883976.7257030010] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7257030010] Return from hook antigen with 0
+[WRN][1639883976.7259159088] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7259159088] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883976.7260179520] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7260179520] Processing hooks: antigen-lock
+[WRN][1639883976.7261960506] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7261960506] -antigen-hook-antigen bundle zsh-users/zsh-syntax-highlighting
+[WRN][1639883976.7264609337] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7264609337] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1639883976.7267839909] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7267839909] Updated meta: target antigen-bundle mode repeat type pre called 6
+[WRN][1639883976.7269539833] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7269539833] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883976.7271060944] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7271060944] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1639883976.7274229527] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7274229527] Replace hook: antigen-bundle-defer zsh-users/zsh-syntax-highlighting
+[WRN][1639883976.7276859283] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883976.7276859283] antigen-bundle-defer shortcircuited
+[LOG][1639883976.7281730175] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7281730175] Return from hook antigen with 0
+[WRN][1639883976.7286770344] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7286770344] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883976.7289049625] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7289049625] Processing hooks: antigen-lock
+[WRN][1639883976.7291500568] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7291500568] -antigen-hook-antigen theme robbyrussell
+[WRN][1639883976.7334439754] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7334439754] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1639883976.7336668968] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7336668968] Updated meta: target antigen-bundle mode repeat type pre called 7
+[WRN][1639883976.7337920666] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7337920666] Processing hooks: antigen-bundle-defer antigen-bundle-cached
+[WRN][1639883976.7339060307] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7339060307] Pre hook: antigen-bundle-cached --loc=themes/robbyrussell --btype=theme
+[WRN][1639883976.7340478897] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7340478897] Replace hook: antigen-bundle-defer --loc=themes/robbyrussell --btype=theme
+[WRN][1639883976.7341740131] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1497
+[WRN][1639883976.7341740131] antigen-bundle-defer shortcircuited
+[LOG][1639883976.7343590260] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7343590260] Return from hook antigen with 0
+[WRN][1639883976.7346460819] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7346460819] Ignoring hook due to mode once: antigen-lock
+[WRN][1639883976.7347569466] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7347569466] Processing hooks: antigen-lock
+[WRN][1639883976.7349278927] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7349278927] -antigen-hook-antigen apply
+[WRN][1639883976.7351899147] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7351899147] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1639883976.7353470325] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7353470325] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1639883976.7354929447] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7354929447] Updated meta: target antigen-apply mode once type replace called 1
+[WRN][1639883976.7356350422] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7356350422] Updated meta: target antigen-apply mode once type pre called 1
+[WRN][1639883976.7357718945] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7357718945] Updated meta: target antigen-apply mode once type post called 1
+[WRN][1639883976.7359199524] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7359199524] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-parallel-execute antigen-apply-defer antigen-apply-cached
+[WRN][1639883976.7360329628] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7360329628] Pre hook: antigen-apply-parallel
+[WRN][1639883976.7361381054] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1741
+[WRN][1639883976.7361381054] Parallel pre-apply PARALLEL PRE-APPLY
+[WRN][1639883976.7363379002] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7363379002] Pre hook: antigen-apply-defer
+[WRN][1639883976.7364430428] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1620
+[WRN][1639883976.7364430428] Defer pre-apply DEFER PRE-APPLY
+[LOG][1639883976.7367470264] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883976.7367470264] Processing deferred bundle: git DEFER
+[WRN][1639883976.7369890213] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7369890213] Updated meta: target antigen-bundle mode repeat type pre called 8
+[WRN][1639883976.7371580601] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7371580601] Updated meta: target antigen-bundle mode repeat type replace called 1
+[WRN][1639883976.7372829914] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7372829914] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883976.7373850346] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7373850346] Pre hook: antigen-bundle-cached git
+[WRN][1639883976.7375259399] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7375259399] Replace hook: antigen-bundle-parallel git
+[TRA][1639883976.7376348972] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883976.7376348972] antigen-bundle-parallel: git PARALLEL
+[TRA][1639883976.7376348972] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7377769947] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7377769947] Replaced hooked function.
+[LOG][1639883976.7379550934] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7379550934] Return from hook antigen-bundle with 0
+[LOG][1639883976.7380878925] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883976.7380878925] Processing deferred bundle: heroku DEFER
+[WRN][1639883976.7383139133] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7383139133] Updated meta: target antigen-bundle mode repeat type pre called 9
+[WRN][1639883976.7384738922] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7384738922] Updated meta: target antigen-bundle mode repeat type replace called 2
+[WRN][1639883976.7385931015] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7385931015] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883976.7386949062] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7386949062] Pre hook: antigen-bundle-cached heroku
+[WRN][1639883976.7388319969] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7388319969] Replace hook: antigen-bundle-parallel heroku
+[TRA][1639883976.7389359474] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883976.7389359474] antigen-bundle-parallel: heroku PARALLEL
+[TRA][1639883976.7389359474] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7390570641] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7390570641] Replaced hooked function.
+[LOG][1639883976.7391560078] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7391560078] Return from hook antigen-bundle with 0
+[LOG][1639883976.7392809391] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883976.7392809391] Processing deferred bundle: pip DEFER
+[WRN][1639883976.7394580841] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7394580841] Updated meta: target antigen-bundle mode repeat type pre called 10
+[WRN][1639883976.7395980358] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7395980358] Updated meta: target antigen-bundle mode repeat type replace called 3
+[WRN][1639883976.7397110462] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7397110462] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883976.7398159504] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7398159504] Pre hook: antigen-bundle-cached pip
+[WRN][1639883976.7400190830] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7400190830] Replace hook: antigen-bundle-parallel pip
+[TRA][1639883976.7401430607] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883976.7401430607] antigen-bundle-parallel: pip PARALLEL
+[TRA][1639883976.7401430607] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7402720451] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7402720451] Replaced hooked function.
+[LOG][1639883976.7403769493] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7403769493] Return from hook antigen-bundle with 0
+[LOG][1639883976.7405030727] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883976.7405030727] Processing deferred bundle: lein DEFER
+[WRN][1639883976.7406880856] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7406880856] Updated meta: target antigen-bundle mode repeat type pre called 11
+[WRN][1639883976.7408890724] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7408890724] Updated meta: target antigen-bundle mode repeat type replace called 4
+[WRN][1639883976.7410240173] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7410240173] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883976.7411279678] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7411279678] Pre hook: antigen-bundle-cached lein
+[WRN][1639883976.7412691116] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7412691116] Replace hook: antigen-bundle-parallel lein
+[TRA][1639883976.7414159775] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883976.7414159775] antigen-bundle-parallel: lein PARALLEL
+[TRA][1639883976.7414159775] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7415499687] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7415499687] Replaced hooked function.
+[LOG][1639883976.7416560650] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7416560650] Return from hook antigen-bundle with 0
+[LOG][1639883976.7417829037] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883976.7417829037] Processing deferred bundle: command-not-found DEFER
+[WRN][1639883976.7419700623] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7419700623] Updated meta: target antigen-bundle mode repeat type pre called 12
+[WRN][1639883976.7421150208] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7421150208] Updated meta: target antigen-bundle mode repeat type replace called 5
+[WRN][1639883976.7422289848] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7422289848] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883976.7423310280] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7423310280] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1639883976.7424631119] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7424631119] Replace hook: antigen-bundle-parallel command-not-found
+[TRA][1639883976.7425661087] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883976.7425661087] antigen-bundle-parallel: command-not-found PARALLEL
+[TRA][1639883976.7425661087] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7426819801] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7426819801] Replaced hooked function.
+[LOG][1639883976.7427799702] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7427799702] Return from hook antigen-bundle with 0
+[LOG][1639883976.7429010868] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883976.7429010868] Processing deferred bundle: zsh-users/zsh-syntax-highlighting DEFER
+[WRN][1639883976.7430789471] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7430789471] Updated meta: target antigen-bundle mode repeat type pre called 13
+[WRN][1639883976.7432210445] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7432210445] Updated meta: target antigen-bundle mode repeat type replace called 6
+[WRN][1639883976.7433369160] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7433369160] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883976.7434380054] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7434380054] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1639883976.7435750961] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7435750961] Replace hook: antigen-bundle-parallel zsh-users/zsh-syntax-highlighting
+[TRA][1639883976.7436800003] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883976.7436800003] antigen-bundle-parallel: zsh-users/zsh-syntax-highlighting PARALLEL
+[TRA][1639883976.7436800003] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7437980175] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7437980175] Replaced hooked function.
+[LOG][1639883976.7439129353] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7439129353] Return from hook antigen-bundle with 0
+[LOG][1639883976.7440319061] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1626
+[LOG][1639883976.7440319061] Processing deferred bundle: --loc=themes/robbyrussell --btype=theme DEFER
+[WRN][1639883976.7442100048] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7442100048] Updated meta: target antigen-bundle mode repeat type pre called 14
+[WRN][1639883976.7443490028] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7443490028] Updated meta: target antigen-bundle mode repeat type replace called 7
+[WRN][1639883976.7444601059] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7444601059] Processing hooks: antigen-bundle-cached antigen-bundle-parallel
+[WRN][1639883976.7445569038] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7445569038] Pre hook: antigen-bundle-cached --loc=themes/robbyrussell --btype=theme
+[WRN][1639883976.7446889877] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7446889877] Replace hook: antigen-bundle-parallel --loc=themes/robbyrussell --btype=theme
+[TRA][1639883976.7447910309] /Users/huwenfeng/.zshrc:1745
+[TRA][1639883976.7447910309] antigen-bundle-parallel: --loc=themes/robbyrussell --btype=theme PARALLEL
+[TRA][1639883976.7447910309] TRACE
+antigen-bundle-parallel
+-antigen-hook-handler
+antigen-bundle
+antigen-apply-defer
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7449069023] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7449069023] Replaced hooked function.
+[LOG][1639883976.7450039387] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7450039387] Return from hook antigen-bundle with 0
+[WRN][1639883976.7451570034] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7451570034] Replace hook: antigen-apply-parallel-execute
+[WRN][1639883976.7452619076] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1753
+[WRN][1639883976.7452619076] Parallel replace-apply PARALLEL REPLACE-APPLY
+[WRN][1639883976.7454841137] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1692
+[WRN][1639883976.7454841137] Parallel antigen-bundle-parallel-execute PARALLEL
+[WRN][1639883976.7455890179] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1696
+[WRN][1639883976.7455890179] Gonna install in parallel 7 bundles. PARALLEL
+[WRN][1639883976.7456820011] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1698
+[WRN][1639883976.7456820011] git heroku pip lein command-not-found zsh-users/zsh-syntax-highlighting --loc=themes/robbyrussell --btype=theme PARALLEL
+[WRN][1639883976.7466430664] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883976.7466430664] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883976.7470569611] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883976.7470569611] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883976.7475450039] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883976.7475450039] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883976.7479770184] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883976.7479770184] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883976.7483940125] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883976.7483940125] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883976.7488539219] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883976.7488539219] Bundle zsh-users/zsh-syntax-highlighting already cloned locally. PARALLEL
+[WRN][1639883976.7492508888] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1712
+[WRN][1639883976.7492508888] Bundle robbyrussell/oh-my-zsh already cloned locally. PARALLEL
+[WRN][1639883976.7495439053] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7495439053] Updated meta: target antigen-bundle mode repeat type pre called 15
+[WRN][1639883976.7496640682] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7496640682] Processing hooks: antigen-bundle-cached
+[WRN][1639883976.7497789860] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7497789860] Pre hook: antigen-bundle-cached git
+[WRN][1639883976.7499120235] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7499120235] -antigen-hook-antigen-bundle git
+[TRA][1639883976.7500169277] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1435
+[TRA][1639883976.7500169277] Called antigen-bundle with git BUNDLE
+[TRA][1639883976.7500169277] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7508690357] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7508690357] Updated meta: target -antigen-load-env mode repeat type replace called 1
+[WRN][1639883976.7510139942] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7510139942] Processing hooks: -antigen-load-env-cached
+[WRN][1639883976.7511930466] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7511930466] Replace hook: -antigen-load-env-cached dir /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/git name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1639883976.7513821125] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7513821125] Replaced hooked function.
+[LOG][1639883976.7514948845] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7514948845] Return from hook -antigen-load-env with 0
+[WRN][1639883976.7517299652] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7517299652] Updated meta: target -antigen-load-source mode repeat type replace called 1
+[WRN][1639883976.7518510818] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7518510818] Processing hooks: -antigen-load-source-cached
+[WRN][1639883976.7520151138] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7520151138] Replace hook: -antigen-load-source-cached /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh
+[WRN][1639883976.7521629333] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7521629333] Replaced hooked function.
+[LOG][1639883976.7522718906] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7522718906] Return from hook -antigen-load-source with 0
+[LOG][1639883976.7525000572] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7525000572] Return from hook antigen-bundle with 0
+[WRN][1639883976.7527680397] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7527680397] Updated meta: target antigen-bundle mode repeat type pre called 16
+[WRN][1639883976.7528929710] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7528929710] Processing hooks: antigen-bundle-cached
+[WRN][1639883976.7530000210] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7530000210] Pre hook: antigen-bundle-cached heroku
+[WRN][1639883976.7531330585] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7531330585] -antigen-hook-antigen-bundle heroku
+[TRA][1639883976.7532389164] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1435
+[TRA][1639883976.7532389164] Called antigen-bundle with heroku BUNDLE
+[TRA][1639883976.7532389164] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7539770603] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7539770603] Updated meta: target -antigen-load-env mode repeat type replace called 2
+[WRN][1639883976.7541029453] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7541029453] Processing hooks: -antigen-load-env-cached
+[WRN][1639883976.7543311119] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7543311119] Replace hook: -antigen-load-env-cached dir /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/heroku name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1639883976.7545208931] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7545208931] Replaced hooked function.
+[LOG][1639883976.7546339035] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7546339035] Return from hook -antigen-load-env with 0
+[WRN][1639883976.7548549175] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7548549175] Updated meta: target -antigen-load-source mode repeat type replace called 2
+[WRN][1639883976.7549779415] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7549779415] Processing hooks: -antigen-load-source-cached
+[WRN][1639883976.7551510334] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7551510334] Replace hook: -antigen-load-source-cached /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/heroku/heroku.plugin.zsh
+[WRN][1639883976.7553460598] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7553460598] Replaced hooked function.
+[LOG][1639883976.7554659843] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7554659843] Return from hook -antigen-load-source with 0
+[LOG][1639883976.7556750774] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7556750774] Return from hook antigen-bundle with 0
+[WRN][1639883976.7559120655] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7559120655] Updated meta: target antigen-bundle mode repeat type pre called 17
+[WRN][1639883976.7560350895] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7560350895] Processing hooks: antigen-bundle-cached
+[WRN][1639883976.7561419010] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7561419010] Pre hook: antigen-bundle-cached pip
+[WRN][1639883976.7562758923] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7562758923] -antigen-hook-antigen-bundle pip
+[TRA][1639883976.7563860416] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1435
+[TRA][1639883976.7563860416] Called antigen-bundle with pip BUNDLE
+[TRA][1639883976.7563860416] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7570860386] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7570860386] Updated meta: target -antigen-load-env mode repeat type replace called 3
+[WRN][1639883976.7572109699] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7572109699] Processing hooks: -antigen-load-env-cached
+[WRN][1639883976.7573409081] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7573409081] Replace hook: -antigen-load-env-cached dir /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/pip name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1639883976.7575109005] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7575109005] Replaced hooked function.
+[LOG][1639883976.7576200962] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7576200962] Return from hook -antigen-load-env with 0
+[WRN][1639883976.7578420639] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7578420639] Updated meta: target -antigen-load-source mode repeat type replace called 3
+[WRN][1639883976.7579600811] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7579600811] Processing hooks: -antigen-load-source-cached
+[WRN][1639883976.7580809593] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7580809593] Replace hook: -antigen-load-source-cached /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/pip/pip.plugin.zsh
+[WRN][1639883976.7582070827] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7582070827] Replaced hooked function.
+[LOG][1639883976.7583110332] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7583110332] Return from hook -antigen-load-source with 0
+[LOG][1639883976.7584729195] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7584729195] Return from hook antigen-bundle with 0
+[WRN][1639883976.7586829662] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7586829662] Updated meta: target antigen-bundle mode repeat type pre called 18
+[WRN][1639883976.7587978840] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7587978840] Processing hooks: antigen-bundle-cached
+[WRN][1639883976.7589020729] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7589020729] Pre hook: antigen-bundle-cached lein
+[WRN][1639883976.7590310574] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7590310574] -antigen-hook-antigen-bundle lein
+[TRA][1639883976.7591381073] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1435
+[TRA][1639883976.7591381073] Called antigen-bundle with lein BUNDLE
+[TRA][1639883976.7591381073] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7598559856] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7598559856] Updated meta: target -antigen-load-env mode repeat type replace called 4
+[WRN][1639883976.7599799633] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7599799633] Processing hooks: -antigen-load-env-cached
+[WRN][1639883976.7601110935] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7601110935] Replace hook: -antigen-load-env-cached dir /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/lein name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1639883976.7602810860] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7602810860] Replaced hooked function.
+[LOG][1639883976.7603919506] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7603919506] Return from hook -antigen-load-env with 0
+[WRN][1639883976.7606101036] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7606101036] Updated meta: target -antigen-load-source mode repeat type replace called 4
+[WRN][1639883976.7607328892] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7607328892] Processing hooks: -antigen-load-source-cached
+[WRN][1639883976.7608609200] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7608609200] Replace hook: -antigen-load-source-cached
+[WRN][1639883976.7609899044] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7609899044] Replaced hooked function.
+[LOG][1639883976.7611000538] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7611000538] Return from hook -antigen-load-source with 0
+[LOG][1639883976.7612709999] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7612709999] Return from hook antigen-bundle with 0
+[WRN][1639883976.7614879608] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7614879608] Updated meta: target antigen-bundle mode repeat type pre called 19
+[WRN][1639883976.7616109848] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7616109848] Processing hooks: antigen-bundle-cached
+[WRN][1639883976.7617199421] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7617199421] Pre hook: antigen-bundle-cached command-not-found
+[WRN][1639883976.7619030476] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7619030476] -antigen-hook-antigen-bundle command-not-found
+[TRA][1639883976.7620339394] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1435
+[TRA][1639883976.7620339394] Called antigen-bundle with command-not-found BUNDLE
+[TRA][1639883976.7620339394] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7628331184] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7628331184] Updated meta: target -antigen-load-env mode repeat type replace called 5
+[WRN][1639883976.7629690170] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7629690170] Processing hooks: -antigen-load-env-cached
+[WRN][1639883976.7631049156] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7631049156] Replace hook: -antigen-load-env-cached dir /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh btype plugin url https://github.com/robbyrussell/oh-my-zsh.git loc plugins/command-not-found name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1639883976.7632820606] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7632820606] Replaced hooked function.
+[LOG][1639883976.7633910179] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7633910179] Return from hook -antigen-load-env with 0
+[WRN][1639883976.7636160851] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7636160851] Updated meta: target -antigen-load-source mode repeat type replace called 5
+[WRN][1639883976.7637360096] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7637360096] Processing hooks: -antigen-load-source-cached
+[WRN][1639883976.7638568878] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7638568878] Replace hook: -antigen-load-source-cached /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh
+[WRN][1639883976.7639849186] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7639849186] Replaced hooked function.
+[LOG][1639883976.7640900612] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7640900612] Return from hook -antigen-load-source with 0
+[LOG][1639883976.7642509937] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7642509937] Return from hook antigen-bundle with 0
+[WRN][1639883976.7644650936] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7644650936] Updated meta: target antigen-bundle mode repeat type pre called 20
+[WRN][1639883976.7645840645] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7645840645] Processing hooks: antigen-bundle-cached
+[WRN][1639883976.7646880150] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7646880150] Pre hook: antigen-bundle-cached zsh-users/zsh-syntax-highlighting
+[WRN][1639883976.7648239136] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7648239136] -antigen-hook-antigen-bundle zsh-users/zsh-syntax-highlighting
+[TRA][1639883976.7649300098] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1435
+[TRA][1639883976.7649300098] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1639883976.7649300098] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7656979561] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7656979561] Updated meta: target -antigen-load-env mode repeat type replace called 6
+[WRN][1639883976.7658538818] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7658538818] Processing hooks: -antigen-load-env-cached
+[WRN][1639883976.7660241127] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7660241127] Replace hook: -antigen-load-env-cached dir /Users/huwenfeng/.antigen/bundles/zsh-users/zsh-syntax-highlighting btype plugin url https://github.com/zsh-users/zsh-syntax-highlighting.git loc / name zsh-users/zsh-syntax-highlighting make_local_clone true
+[WRN][1639883976.7662570477] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7662570477] Replaced hooked function.
+[LOG][1639883976.7663800716] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7663800716] Return from hook -antigen-load-env with 0
+[WRN][1639883976.7666099072] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7666099072] Updated meta: target -antigen-load-source mode repeat type replace called 6
+[WRN][1639883976.7667300701] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7667300701] Processing hooks: -antigen-load-source-cached
+[WRN][1639883976.7668490410] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7668490410] Replace hook: -antigen-load-source-cached
+[WRN][1639883976.7669711113] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7669711113] Replaced hooked function.
+[LOG][1639883976.7670741081] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7670741081] Return from hook -antigen-load-source with 0
+[LOG][1639883976.7672328949] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7672328949] Return from hook antigen-bundle with 0
+[WRN][1639883976.7674438953] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7674438953] Updated meta: target antigen-bundle mode repeat type pre called 21
+[WRN][1639883976.7675619125] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7675619125] Processing hooks: antigen-bundle-cached
+[WRN][1639883976.7676649094] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1484
+[WRN][1639883976.7676649094] Pre hook: antigen-bundle-cached --loc=themes/robbyrussell --btype=theme
+[WRN][1639883976.7677938938] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7677938938] -antigen-hook-antigen-bundle --loc=themes/robbyrussell --btype=theme
+[TRA][1639883976.7679059505] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1435
+[TRA][1639883976.7679059505] Called antigen-bundle with --loc=themes/robbyrussell --btype=theme BUNDLE
+[TRA][1639883976.7679059505] TRACE
+-antigen-hook-antigen-bundle
+-antigen-hook-handler
+antigen-bundle
+antigen-bundle-parallel-execute
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639883976.7684800625] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7684800625] Updated meta: target -antigen-load-env mode repeat type replace called 7
+[WRN][1639883976.7686030865] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7686030865] Processing hooks: -antigen-load-env-cached
+[WRN][1639883976.7687339783] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7687339783] Replace hook: -antigen-load-env-cached dir /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh btype theme url https://github.com/robbyrussell/oh-my-zsh.git loc themes/robbyrussell.zsh-theme name robbyrussell/oh-my-zsh make_local_clone true
+[WRN][1639883976.7688999176] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7688999176] Replaced hooked function.
+[LOG][1639883976.7690041065] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7690041065] Return from hook -antigen-load-env with 0
+[WRN][1639883976.7692880630] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1466
+[WRN][1639883976.7692880630] Updated meta: target -antigen-load-source mode repeat type replace called 7
+[WRN][1639883976.7694289684] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7694289684] Processing hooks: -antigen-load-source-cached
+[WRN][1639883976.7695589066] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1495
+[WRN][1639883976.7695589066] Replace hook: -antigen-load-source-cached /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/themes/robbyrussell.zsh-theme
+[WRN][1639883976.7696909904] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883976.7696909904] Replaced hooked function.
+[LOG][1639883976.7698390484] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7698390484] Return from hook -antigen-load-source with 0
+[LOG][1639883976.7700290680] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883976.7700290680] Return from hook antigen-bundle with 0
+[WRN][1639883976.7701730728] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1736
+[WRN][1639883976.7701730728] Parallel install done PARALLEL
+[WRN][1639883976.7704999447] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7704999447] Ignoring hook due to mode once: antigen-apply-lock
+[WRN][1639883976.7706298828] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7706298828] Ignoring hook due to mode once: antigen-apply-parallel
+[WRN][1639883976.7707989216] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7707989216] Ignoring hook due to mode once: antigen-apply-defer
+[WRN][1639883976.7709400654] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1459
+[WRN][1639883976.7709400654] Ignoring hook due to mode once: antigen-apply-cached
+[WRN][1639883976.7710568905] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1481
+[WRN][1639883976.7710568905] Processing hooks: antigen-apply-lock antigen-apply-parallel antigen-apply-defer antigen-apply-cached
+[WRN][1639883976.7711789608] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1502
+[WRN][1639883976.7711789608] -antigen-hook-antigen-apply 
+[LOG][1639883976.7712891102] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1435
+[LOG][1639883976.7712891102] Called antigen-apply
+[TRA][1639883976.7713930607] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1436
+[TRA][1639883976.7713930607] Gonna create compdump file @ apply COMPDUMP
+[TRA][1639883976.7713930607] TRACE
+-antigen-hook-antigen-apply
+-antigen-hook-handler
+antigen-apply
+antigen-apply-parallel-execute
+-antigen-hook-handler
+antigen-apply
+-antigen-hook-antigen
+-antigen-hook-handler
+antigen
+/Users/huwenfeng/.zshrc
+[LOG][1639883977.2753300667] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883977.2753300667] Return from hook antigen-apply with 0
+[WRN][1639883977.2757849693] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1506
+[WRN][1639883977.2757849693] Replaced hooked function.
+[WRN][1639883977.2759881020] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1510
+[WRN][1639883977.2759881020] Post hook: antigen-apply-lock
+[WRN][1639883977.2761919498] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1673
+[WRN][1639883977.2761919498] Freeing antigen-lock file at /Users/huwenfeng/.antigen/.lock
+[WRN][1639883977.2785050869] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1510
+[WRN][1639883977.2785050869] Post hook: antigen-apply-cached
+[LOG][1639883977.2786691189] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1888
+[LOG][1639883977.2786691189] TRACE: /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1511 /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1438 /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1444 /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1503 /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1438 /Users/huwenfeng/.zshrc:20 zsh:0
+[LOG][1639883977.2788589001] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1784
+[LOG][1639883977.2788589001] Gonna generate cache for /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/git/git.plugin.zsh /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/heroku /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/heroku/heroku.plugin.zsh /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/pip /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/pip/pip.plugin.zsh /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/lein /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh /Users/huwenfeng/.antigen/bundles/zsh-users/zsh-syntax-highlighting// /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/themes/robbyrussell.zsh-theme /Users/huwenfeng/.antigen/bundles/robbyrussell/oh-my-zsh/themes/robbyrussell.zsh-theme
+[LOG][1639883977.2987639904] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1839
+[LOG][1639883977.2987639904] CHECK_FILES /Users/huwenfeng/.zshrc /Users/huwenfeng/.zshrc
+[LOG][1639883977.3294351101] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883977.3294351101] Return from hook antigen-apply with 0
+[LOG][1639883977.3296549320] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:1515
+[LOG][1639883977.3296549320] Return from hook antigen with 0
+[WRN][1639884047.0108020306] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639884047.0108020306] -antigen-interactive-mode: toplevel:filecode:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1639884047.0110080242] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:476
+[TRA][1639884047.0110080242] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1639884047.0110080242] TRACE
+-antigen-env-setup
+/Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh
+/Users/huwenfeng/.zshrc
+[TRA][1639884047.0506761074] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884047.0506761074] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1639884047.0506761074] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884047.0919239521] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884047.0919239521] Called antigen-bundle with git BUNDLE
+[TRA][1639884047.0919239521] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884047.0924959183] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884047.0924959183] Called antigen-bundle with heroku BUNDLE
+[TRA][1639884047.0924959183] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884047.0929811001] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884047.0929811001] Called antigen-bundle with pip BUNDLE
+[TRA][1639884047.0929811001] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884047.0934689045] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884047.0934689045] Called antigen-bundle with lein BUNDLE
+[TRA][1639884047.0934689045] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884047.0939528942] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884047.0939528942] Called antigen-bundle with command-not-found BUNDLE
+[TRA][1639884047.0939528942] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884047.0944409370] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884047.0944409370] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1639884047.0944409370] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884047.0971329212] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884047.0971329212] Called antigen-bundle with --loc=themes/robbyrussell --btype=theme BUNDLE
+[TRA][1639884047.0971329212] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/Users/huwenfeng/.zshrc
+[LOG][1639884047.0977408886] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:786
+[LOG][1639884047.0977408886] Called antigen-apply
+[TRA][1639884047.0978538990] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:790
+[TRA][1639884047.0978538990] Gonna create compdump file @ apply COMPDUMP
+[TRA][1639884047.0978538990] TRACE
+antigen-apply
+antigen
+/Users/huwenfeng/.zshrc
+[WRN][1639884218.6828880310] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:267
+[WRN][1639884218.6828880310] -antigen-interactive-mode: toplevel:filecode:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1639884218.6834769249] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:476
+[TRA][1639884218.6834769249] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1639884218.6834769249] TRACE
+-antigen-env-setup
+/Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh
+/Users/huwenfeng/.zshrc
+[TRA][1639884218.7375569344] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884218.7375569344] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1639884218.7375569344] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884218.7905750275] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884218.7905750275] Called antigen-bundle with git BUNDLE
+[TRA][1639884218.7905750275] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884218.7910699844] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884218.7910699844] Called antigen-bundle with heroku BUNDLE
+[TRA][1639884218.7910699844] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884218.7914900780] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884218.7914900780] Called antigen-bundle with pip BUNDLE
+[TRA][1639884218.7914900780] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884218.7919549942] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884218.7919549942] Called antigen-bundle with lein BUNDLE
+[TRA][1639884218.7919549942] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884218.7923679352] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884218.7923679352] Called antigen-bundle with command-not-found BUNDLE
+[TRA][1639884218.7923679352] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884218.7927839756] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884218.7927839756] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1639884218.7927839756] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1639884218.7949969769] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:809
+[TRA][1639884218.7949969769] Called antigen-bundle with --loc=themes/robbyrussell --btype=theme BUNDLE
+[TRA][1639884218.7949969769] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/Users/huwenfeng/.zshrc
+[LOG][1639884218.7955009937] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:786
+[LOG][1639884218.7955009937] Called antigen-apply
+[TRA][1639884218.7959370613] /Users/huwenfeng/.config/zsh/antigen-the-zsh-plug-management/antigen.zsh:790
+[TRA][1639884218.7959370613] Gonna create compdump file @ apply COMPDUMP
+[TRA][1639884218.7959370613] TRACE
+antigen-apply
+antigen
+/Users/huwenfeng/.zshrc
