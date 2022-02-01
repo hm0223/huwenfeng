@@ -7,3 +7,5 @@ alias git='LANG=en_GB git'
 # alias tree="find . -print | sed -e 's;[^/]*/;|____;g;s;____|; |;g'"
 alias ll="ls -latr"
 alias cls="clear"
+alias du="ncdu --color dark"
+alias czt="open -a /Applications/Visual\ Studio\ Code.app .zshrc" 
