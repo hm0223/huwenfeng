@@ -321,6 +321,7 @@ _comps=(
 'cygserver.exe' '_cygserver'
 'cygstart' '_cygstart'
 'cygstart.exe' '_cygstart'
+'d' '_dirs'
 'dak' '_dak'
 'darcs' '_darcs'
 'dash' '_sh'
@@ -380,6 +381,8 @@ _comps=(
 'dnf-2' '_dnf'
 'dnf-3' '_dnf'
 'doas' '_doas'
+'docker' '_docker'
+'dockerd' '_docker'
 'domainname' '_yp'
 'dos2unix' '_dos2unix'
 'dosdel' '_floppy'
@@ -808,7 +811,6 @@ _comps=(
 'ldconfig' '_ldconfig'
 'ldconfig.real' '_ldconfig'
 'ldd' '_ldd'
-'lein' '_lein'
 'less' '_less'
 'let' '_math'
 'lftp' '_ncftp'
@@ -1025,6 +1027,7 @@ _comps=(
 'ogginfo' '_vorbis'
 'oksh' '_sh'
 'okular' '_okular'
+'omz' '_omz'
 'open' '_open'
 'openstack' '_openstack'
 'opera' '_webbrowser'
@@ -1981,7 +1984,7 @@ autoload -Uz _brew _brew_services _git _j _SUSEconfig \
             _zftp _zip _zle _zlogin _zmodload \
             _zmv _zoneadm _zones _zparseopts _zpool \
             _zpty _zsh _zsh-mime-handler _zsocket _zstyle \
-            _ztodo _zypper _pip _lein
+            _ztodo _zypper _pip _docker
 autoload -Uz +X _call_program
 
 typeset -gUa _comp_assocs

@@ -107,3 +107,6 @@
 /.gitflow_export
 /.zshrc.zwc
 /.viminfo
+/.antigen/bundles/zsh-users/zsh-autosuggestions/
+/.antigen/bundles/zsh-users/zsh-syntax-highlighting/
+/.antigen/bundles/robbyrussell/oh-my-zsh/
