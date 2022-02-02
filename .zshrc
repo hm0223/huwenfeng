@@ -1,9 +1,10 @@
-source /Users/$USER/antigen.zsh
+source /Users/$USER/.antigen/antigen.zsh
 
 # Load the oh-my-zsh's library.
 antigen use oh-my-zsh
 
-source .zshrc.pre-oh-my-zsh
+# Hide the hostname
+# source .zshrc.pre-oh-my-zsh
 
 export ZSH="/Users/$USER/.antigen/bundles/robbyrussell/oh-my-zsh/"
 source $ZSH/oh-my-zsh.sh
@@ -16,6 +17,8 @@ antigen bundle pip
 # antigen bundle command-not-found
 antigen bundle autojump
 antigen bundle docker
+# show the command history plugin
+antigen bundle fzf
 
 # Syntax highlighting bundle.
 antigen bundle zsh-users/zsh-syntax-highlighting
@@ -26,7 +29,6 @@ antigen theme random
 
 # Tell Antigen that you're done.
 antigen apply
-
 
 # load aliases config
 source ~/.aliasrc
