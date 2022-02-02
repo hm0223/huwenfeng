@@ -10,7 +10,7 @@
 	trustExitCode = true
 
 [alias]
-    loginfo = log --pretty=format:'%C(auto) %h | %ai | %Cred  %an %Cgreen %s %C(auto) %d' --date=local
+    lg = log --pretty=format:'%C(auto) %h | %ai | %Cred  %an %Cgreen %s %C(auto) %d' --date=local
 	co = checkout
 	br = branch
 	ci = commit
@@ -28,3 +28,6 @@
 	name = huwenfeng
 [commit]
 	template = /Users/huwenfeng/.stCommitMsg
+[i18n]
+	commitencoding = utf-8
+	logoutputencoding = utf-8

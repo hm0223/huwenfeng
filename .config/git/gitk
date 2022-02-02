@@ -5,7 +5,7 @@ set tabstop 8
 set findmergefiles 0
 set maxgraphpct 50
 set maxwidth 16
-set cmitmode patch
+set cmitmode tree
 set wrapcomment none
 set autoselect 1
 set autosellen 40
@@ -53,13 +53,13 @@ set linkfgcolor blue
 set circleoutlinecolor black
 set diffbgcolors {"#fff3f3" "#f0fff0"}
 set web_browser open
-set geometry(main) 1792x996+0+25
+set geometry(main) 1792x976+0+25
 set geometry(state) zoomed
 set geometry(topwidth) 1792
 set geometry(topheight) 481
 set geometry(pwsash0) "691 1"
 set geometry(pwsash1) "945 1"
 set geometry(botwidth) 778
-set geometry(botheight) 510
+set geometry(botheight) 490
 set permviews {{{视图 1} {} --branches {}}
 }

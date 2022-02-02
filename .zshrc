@@ -17,7 +17,7 @@ antigen bundle pip
 # antigen bundle command-not-found
 antigen bundle autojump
 antigen bundle docker
-# show the command history plugin
+# A command-line fuzzy finder
 antigen bundle fzf
 
 # Syntax highlighting bundle.
