@@ -112,3 +112,4 @@
 /.antigen/debug.log
 /.ssh/id_rsa*
 /.ssh/known_hosts
+/.nvm/
