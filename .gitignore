@@ -40,13 +40,11 @@
 /.sogouinput/
 /.sonarlint/
 /.SwitchHosts/
-/.oracle_jre_usage/
 /Applications/
 /Applications (Parallels)/
 /Public/
 /PycharmProjects/
 /VirtualBox VMs/
-/Public/
 /Movies/
 /Music/
 /Nutstore Files/
@@ -81,9 +79,6 @@
 /.zcompdump-huwenfeng-5.8
 /.zprofile
 /.zsh_history
-/.Trash/
-/.sogouinput/
-/.mono/
 /.pylint.d/
 /.bash_history
 /.gitignore_global
@@ -110,3 +105,10 @@
 /.antigen/bundles/zsh-users/zsh-autosuggestions/
 /.antigen/bundles/zsh-users/zsh-syntax-highlighting/
 /.antigen/bundles/robbyrussell/oh-my-zsh/
+.vim_mru_files
+/eclipse/
+/.tabnine/
+/.antigen/.zcompdump.zwc
+/.antigen/debug.log
+/.ssh/id_rsa*
+/.ssh/known_hosts

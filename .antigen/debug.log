@@ -24148,3 +24148,76 @@ antigen
 [LOG][1643801656.0277259350] Return from hook antigen-apply with 0
 [LOG][1643801656.0279490948] /Users/huwenfeng/.antigen/antigen.zsh:1519
 [LOG][1643801656.0279490948] Return from hook antigen with 0
+[WRN][1644284176.1245870590] /Users/huwenfeng/.antigen/antigen.zsh:266
+[WRN][1644284176.1245870590] -antigen-interactive-mode: toplevel:filecode:file:shfunc:shfunc $_ANTIGEN_INTERACTIVE = 
+[TRA][1644284176.1252069473] /Users/huwenfeng/.antigen/antigen.zsh:476
+[TRA][1644284176.1252069473] Gonna create compdump file @ env-setup COMPDUMP
+[TRA][1644284176.1252069473] TRACE
+-antigen-env-setup
+/Users/huwenfeng/.antigen/antigen.zsh
+/Users/huwenfeng/.zshrc
+[TRA][1644284176.1768059731] /Users/huwenfeng/.antigen/antigen.zsh:809
+[TRA][1644284176.1768059731] Called antigen-bundle with --loc=lib BUNDLE
+[TRA][1644284176.1768059731] TRACE
+antigen-bundle
+-antigen-use-oh-my-zsh
+antigen-use
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1644284176.8996911049] /Users/huwenfeng/.antigen/antigen.zsh:809
+[TRA][1644284176.8996911049] Called antigen-bundle with git BUNDLE
+[TRA][1644284176.8996911049] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1644284176.9001550674] /Users/huwenfeng/.antigen/antigen.zsh:809
+[TRA][1644284176.9001550674] Called antigen-bundle with pip BUNDLE
+[TRA][1644284176.9001550674] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1644284176.9010970592] /Users/huwenfeng/.antigen/antigen.zsh:809
+[TRA][1644284176.9010970592] Called antigen-bundle with autojump BUNDLE
+[TRA][1644284176.9010970592] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1644284176.9023289680] /Users/huwenfeng/.antigen/antigen.zsh:809
+[TRA][1644284176.9023289680] Called antigen-bundle with docker BUNDLE
+[TRA][1644284176.9023289680] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1644284176.9031109810] /Users/huwenfeng/.antigen/antigen.zsh:809
+[TRA][1644284176.9031109810] Called antigen-bundle with fzf BUNDLE
+[TRA][1644284176.9031109810] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1644284176.9035460949] /Users/huwenfeng/.antigen/antigen.zsh:809
+[TRA][1644284176.9035460949] Called antigen-bundle with zsh-users/zsh-syntax-highlighting BUNDLE
+[TRA][1644284176.9035460949] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1644284176.9040439129] /Users/huwenfeng/.antigen/antigen.zsh:809
+[TRA][1644284176.9040439129] Called antigen-bundle with zsh-users/zsh-autosuggestions BUNDLE
+[TRA][1644284176.9040439129] TRACE
+antigen-bundle
+antigen
+/Users/huwenfeng/.zshrc
+[TRA][1644284176.9068570137] /Users/huwenfeng/.antigen/antigen.zsh:809
+[TRA][1644284176.9068570137] Called antigen-bundle with --loc=themes/random --btype=theme BUNDLE
+[TRA][1644284176.9068570137] TRACE
+antigen-bundle
+antigen-theme
+antigen
+/Users/huwenfeng/.zshrc
+[LOG][1644284176.9074931145] /Users/huwenfeng/.antigen/antigen.zsh:786
+[LOG][1644284176.9074931145] Called antigen-apply
+[TRA][1644284176.9077129364] /Users/huwenfeng/.antigen/antigen.zsh:790
+[TRA][1644284176.9077129364] Gonna create compdump file @ apply COMPDUMP
+[TRA][1644284176.9077129364] TRACE
+antigen-apply
+antigen
+/Users/huwenfeng/.zshrc
