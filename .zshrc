@@ -25,7 +25,8 @@ antigen bundle zsh-users/zsh-syntax-highlighting
 antigen bundle zsh-users/zsh-autosuggestions
 
 # Load the theme.
-antigen theme random
+# antigen theme random
+antigen theme cloud
 
 # Tell Antigen that you're done.
 antigen apply

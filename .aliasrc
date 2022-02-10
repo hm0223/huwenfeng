@@ -11,5 +11,5 @@ alias du="ncdu --color dark"
 # change zsh theme
 alias czt="open -a /Applications/Visual\ Studio\ Code.app .zshrc" 
 # clean maven repo
-alias cmr="find /Users/huwenfeng/.m2/repository/ -name '*.lastUpdated' -exec grep -q 'Could not transfer' {} \; -print -exec rm {} \;"
+alias cmr="find /Users/$USER/.m2/repository/ -name '*.lastUpdated' -exec grep -q 'Could not transfer' {} \; -print -exec rm {} \;"
 
