@@ -1,5 +1,5 @@
 [core]
-	excludesfile = /Users/huwenfeng/.config/git/.gitignore_global
+	excludesfile = /Users/$USER/.gitignore_global
 	autocrlf = input
 
 [difftool "sourcetree"]
@@ -10,7 +10,7 @@
 	trustExitCode = true
 
 [alias]
-    lg = log --pretty=format:'%C(auto) %h | %ai | %Cred  %an %Cgreen %s %C(auto) %d' --date=local
+    loginfo = log --pretty=format:'%C(auto) %h | %ai | %Cred  %an %Cgreen %s %C(auto) %d' --date=local
 	co = checkout
 	br = branch
 	ci = commit
@@ -25,9 +25,6 @@
 	s = checkout
 [user]
 	email = 809261665@qq.com
-	name = huwenfeng
+	name = $USER
 [commit]
-	template = /Users/huwenfeng/.config/git/.stCommitMsg
-[i18n]
-	commitencoding = utf-8
-	logoutputencoding = utf-8
+	template = /Users/$USER/.stCommitMsg

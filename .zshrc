@@ -32,10 +32,10 @@ antigen theme cloud
 antigen apply
 
 # load aliases config
-source ~/.aliasrc
+source ~/.config/.aliasrc
 
 # load jenv plugin config
-source ~/.jenvrc
+source ~/.config/jenv/.jenvrc
 
 # load normal bash config
-source ~/.bash_profile
+source ~/.config/bash/.bash_profile
