@@ -47,6 +47,7 @@
 /.zsh_sessions/
 /.swt/
 /.tldr/
+/.tldrc/
 /.tooling/
 /.translation/
 /.Trash/
@@ -85,3 +86,14 @@
 /.nvm/
 /.vim/
 /.sogouinput/
+*.json
+/VSCodeProects/
+/oradiag_huwenfeng/
+/DG/
+/.mvn/
+/.npminstall_tarball/
+/logs/
+/docker/
+/node_modules/
+/node_modules/n/
+/nacos/

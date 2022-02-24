@@ -37,5 +37,5 @@ source ~/.config/.aliasrc
 # load jenv plugin config
 source ~/.config/jenv/.jenvrc
 
-# load normal bash config
+# load normal bash config (Mainly contains some environment variables)
 source ~/.config/bash/.bash_profile
