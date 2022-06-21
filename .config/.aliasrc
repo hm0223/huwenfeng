@@ -1,8 +1,8 @@
 
 # ========================== Alias Start =========================
 # zykj vpn
-alias vpn='cd /usr/local/etc/openvpn && sudo /usr/local/opt/openvpn/sbin/openvpn --config /usr/local/etc/openvpn/config.ovpn'
-alias vpnprod='cd /usr/local/etc/openvpn_prod && sudo /usr/local/opt/openvpn/sbin/openvpn --config /usr/local/etc/openvpn_prod/config.ovpn'
+alias vpn='cd /usr/local/etc/openvpn && sudo nohup /usr/local/opt/openvpn/sbin/openvpn --config /usr/local/etc/openvpn/config.ovpn'
+alias vpnprod='cd /usr/local/etc/openvpn_prod && sudo nohup /usr/local/opt/openvpn/sbin/openvpn --config /usr/local/etc/openvpn_prod/config.ovpn'
 alias vpnprod2='cd /usr/local/etc/openvpn_prod2 && sudo /usr/local/opt/openvpn/sbin/openvpn --config /usr/local/etc/openvpn_prod2/config.ovpn'
 alias git='LANG=en_GB git'
 alias mvncfg='cd ~ && open -a /Applications/Visual\ Studio\ Code.app .m2/settings.xml'
