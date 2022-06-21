@@ -14,3 +14,6 @@ export PATH=$CXF_HOME/bin:$PATH
 # resolve git chinese encode show error.
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
+
+# Anaconda3
+export PATH=/usr/local/anaconda3/bin:$PATH
